@@ -14,40 +14,44 @@ Encompassing *Human-in-the-loop computing*, *Human-AI interaction*, and *User Mo
 
 ## Goal-Setting Behavior of Workers on Crowdsourcing Platforms: An Exploratory Study on MTurk and Prolific
 
-Authors: Tahir Abbas and Ujwal Gadiraju
+**Authors**: Tahir Abbas and Ujwal Gadiraju
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21983) 
 
-Synopsis:
+**Synopsis**
 
 ## CHIME: Causal Human-in-the-Loop Model Explanations  
 
-Authors: Shreyan Biswas, Lorenzo Corti, Stefan Buijsman, and Jie Yang  
+**Authors**: Shreyan Biswas, Lorenzo Corti, Stefan Buijsman, and Jie Yang  
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21985)
 
-Synopsis:
+**Synopsis**
+
+Explaining the behaviour of Artificial Intelligence models has become a necessity. Their opaqueness and fragility are not tolerable in high-stakes domains especially. Although considerable progress is being made in the field of Explainable Artificial Intelligence, scholars have demonstrated limits and flaws of existing approaches: explanations requiring further interpretation, non-standardised explanatory format, and overall fragility. In light of this fragmentation, we turn to the field of philosophy of science to understand what constitutes a good explanation, that is, a generalisation that covers both the actual outcome and, possibly multiple, counterfactual outcomes. 
+In this work led by Shreyan, we propose CHIME: a human-in-the-loop, post-hoc approach focused on creating such explanations by establishing the causal features in the input. 
+We first elicit people's cognitive abilities to understand what parts of the input the model might be attending to. Then, through Causal Discovery we uncover the underlying causal graph relating the different concepts. Finally, with such a structure, we compute the causal effects different concepts have towards a model's outcome. We evaluate the Fidelity, Coherence, and Accuracy of the explanations obtained with CHIME with respect to two state-of-the-art Computer Vision models trained on real-world image data sets. We found evidence that the explanations reflect the causal concepts tied to a model's prediction, both in terms of causal strength and accuracy. We think exploring the intersection between Explainable AI and Causal Inference is beneficial to build better explanation methods.
 
 ## Gesticulate for Health’s Sake! Understanding the Use of Gestures as an Input Modality for Microtask Crowdsourcing
 
-Authors: Garrett Allen, Andrea Hu, and Ujwal Gadiraju
+**Authors**: Garrett Allen, Andrea Hu, and Ujwal Gadiraju
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21984)
 
-Synopsis: 
+**Synopsis**
 
 ## It Is like Finding a Polar Bear in the Savannah! Concept-Level AI Explanations with Analogical Inference from Commonsense Knowledge
 
-Authors: Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, and Ujwal Gadiraju
+**Authors**: Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, and Ujwal Gadiraju
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21990)
 
-Synopsis:
+**Synopsis**
 
 ## SignUpCrowd: Using Sign-Language as an Input Modality for Microtask Crowdsourcing
 
-Authors: Aayush Singh, Sebastian Wehkamp, and Ujwal Gadiraju
+**Authors**: Aayush Singh, Sebastian Wehkamp, and Ujwal Gadiraju
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21998)
 
-Synopsis:
+**Synopsis**
