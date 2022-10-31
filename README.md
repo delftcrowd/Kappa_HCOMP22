@@ -26,6 +26,8 @@ Encompassing *Human-in-the-loop computing*, *Human-AI interaction*, and *User Mo
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21985)
 
+[**Link to Repository**](https://github.com/delftcrowd/CHIME_HCOMP22)
+
 **Synopsis**
 
 Explaining the behaviour of Artificial Intelligence models has become a necessity. Their opaqueness and fragility are not tolerable in high-stakes domains especially. Although considerable progress is being made in the field of Explainable Artificial Intelligence, scholars have demonstrated limits and flaws of existing approaches: explanations requiring further interpretation, non-standardised explanatory format, and overall fragility. In light of this fragmentation, we turn to the field of philosophy of science to understand what constitutes a good explanation, that is, a generalisation that covers both the actual outcome and, possibly multiple, counterfactual outcomes. 
