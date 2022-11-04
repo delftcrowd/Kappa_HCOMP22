@@ -48,7 +48,11 @@ We first elicit people's cognitive abilities to understand what parts of the inp
 
 [**Link to Paper**](https://ojs.aaai.org/index.php/HCOMP/article/view/21990)
 
+[**Link to Repository**](https://github.com/delftcrowd/HCOMP2022_ARCHIE)
+
 **Synopsis**
+
+With recent advances in explainable artificial intelligence (XAI), researchers have started to pay attention to conceptlevel explanations, which explain model predictions with a high level of abstraction. However, such explanations may be difficult to digest for laypeople due to the potential knowledge gap and the concomitant cognitive load. Inspired by recent work, we argue that analogy-based explanations composed of commonsense knowledge may be a potential solution to tackle this issue. In this paper, we propose analogical inference as a bridge to help end-users leverage their commonsense knowledge to better understand the concept-level explanations. Specifically, we design an effective analogy-based explanation generation method and collect 600 analogy-based explanations from 100 crowd workers. Furthermore, we propose a set of structured dimensions for the qualitative assessment of analogy-based explanations and conduct an empirical evaluation of the generated analogies with experts. Our findings reveal significant positive correlations between the qualitative dimensions of analogies and the perceived helpfulness of analogy-based explanations. These insights can inform the design of future methods for the generation of effective analogy-based explanations. We also find that the understanding of commonsense explanations varies with the experience of the recipient user, which points out the need for further work on personalization when leveraging commonsense explanations.
 
 ## SignUpCrowd: Using Sign-Language as an Input Modality for Microtask Crowdsourcing
 
